@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hassan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif&tbm=isch&ved=2ahUKEwiG9O2V4b_8AhWLXKQEHVn3C2QQ2-cCegQIABAA&oq=programmer+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgjECc6BggAEAUQHjoGCAAQCBAeOgcIABCxAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwFQqxVY1y5ggjloAHAAeAGAAZUDiAHtHJIBCDItMTEuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=5cu-Y8btMYu5kdUP2e6voAY&bih=617&biw=1366#imgrc=ZHM55s2_Fz-GFM">
 <p align="left"> <a href="https://twitter.com/i_abdullahg" target="blank"><img src="https://img.shields.io/twitter/follow/i_abdullahg?logo=twitter&style=for-the-badge" alt="i_abdullahg" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
