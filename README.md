@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hassan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 <p align="left"> <a href="https://twitter.com/i_abdullahg" target="blank"><img src="https://img.shields.io/twitter/follow/i_abdullahg?logo=twitter&style=for-the-badge" alt="i_abdullahg" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
