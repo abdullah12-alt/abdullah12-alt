@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_abdullahg" target="blank"><img src="https://img.shields.io/twitter/follow/i_abdullahg?logo=twitter&style=for-the-badge" alt="i_abdullahg" /></a> </p>
 
-- 🌱 I’m currently Working **Django, Flask, FastApi**
+- 🌱 I’m currently Working **Asp.Net Core, Next.js, Angular, Blazor, Django, Flask, FastApi**
 
 - 💬 Ask me about **Django,DevOps and Python**
 
